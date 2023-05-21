@@ -45,3 +45,5 @@ The script also performs the following aggregations:
 ## Data Visualisation
 
 Lastly, a pie chart of patient gender distribution is generated using Matplotlib.
+
+![Chart](https://github.com/Gaurang105/Bajaj_Finserv_Assignment/blob/master/screenshot/chart.png?raw=true)
